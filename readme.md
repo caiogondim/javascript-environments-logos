@@ -8,4 +8,4 @@
 
 | [T](https://tessel.io/) | [Horizontal](https://tessel.io/)
 |:---:|:---:
-| <a href="https://tessel.io/"><img width=140 src="tessel/t/256x256.png" alt="Tessel T"></a> | <a href="https://tessel.io"><img width=140 src="tessel/horizontal/256x256.png" alt="Tessel horizontal logo"></a>
+| <a href="https://tessel.io/"><img height=140 src="tessel/t/square/256x256.png" alt="Tessel T"></a> | <a href="https://tessel.io"><img height=140 src="tessel/horizontal/without-padding/849x256.png" alt="Tessel horizontal logo"></a>

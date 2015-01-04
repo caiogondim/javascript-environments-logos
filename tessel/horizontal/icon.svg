@@ -1,84 +1,133 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="469.834px" height="139px" viewBox="0 0 469.834 139" enable-background="new 0 0 469.834 139" xml:space="preserve">
-<g>
-	<rect x="168.887" y="58.971" fill="#F54A42" width="8.144" height="36.074"/>
-	<rect x="150.143" y="51.9" fill="#F54A42" width="45.796" height="8.146"/>
-	<path fill="#F54A42" d="M210.301,60.046h34.242V51.9h-38.338c-2.533,0-4.047,1.532-4.047,4.1v34.891
-		c0,2.562,1.551,4.154,4.047,4.154H244.6V86.9h-34.299V60.046z"/>
-	<rect x="208.214" y="67.774" fill="#F54A42" width="29.981" height="8.146"/>
-	<path fill="#F54A42" d="M288.072,69.509c-3.218,0-6.504,0.084-9.685,0.164c-3.158,0.08-6.426,0.161-9.603,0.161
-		c-9.443,0-9.443-1.455-9.443-3.863v-2.224c0-3.048,0-4.189,12.206-4.189h8.18c11.697,0,12.86,1.119,12.86,3.864v2.312h8.146v-2.745
-		c0-9.951-6.515-11.63-21.111-11.63h-7.801c-14.546,0-20.627,1.722-20.627,12.388v2.276c0,11.033,8.69,11.955,17.591,11.955
-		c2.722,0,5.483-0.066,8.246-0.137c2.737-0.066,5.475-0.135,8.169-0.135c7.497,0,7.497,0.924,7.497,2.943v2.168
-		c0,3.459,0,4.623-12.858,4.623h-8.291c-12.534,0-12.534-1.174-12.534-5.545v-2.854h-8.142v2.963
-		c0,11.576,5.458,13.635,20.837,13.635h8.235c15.421,0,20.896-1.961,20.896-12.986v-2.438
-		C300.84,75.332,298.627,69.509,288.072,69.509z"/>
-	<path fill="#F54A42" d="M345.345,69.509c-3.214,0-6.504,0.084-9.685,0.164c-3.158,0.08-6.426,0.161-9.603,0.161
-		c-9.442,0-9.442-1.455-9.442-3.863v-2.224c0-3.048,0-4.189,12.205-4.189h8.181c11.696,0,12.858,1.119,12.858,3.864v2.312h8.146
-		v-2.745c0-9.951-6.513-11.63-21.111-11.63h-7.801c-14.546,0-20.626,1.722-20.626,12.388v2.276c0,11.033,8.689,11.955,17.59,11.955
-		c2.721,0,5.483-0.066,8.247-0.137c2.738-0.066,5.475-0.135,8.168-0.135c7.497,0,7.497,0.924,7.497,2.943v2.168
-		c0,3.459,0,4.623-12.858,4.623h-8.291c-12.532,0-12.532-1.174-12.532-5.545v-2.854h-8.144v2.963
-		c0,11.576,5.458,13.635,20.839,13.635h8.234c15.421,0,20.895-1.961,20.895-12.986v-2.438
-		C358.112,75.332,355.899,69.509,345.345,69.509z"/>
-	<path fill="#F54A42" d="M374.375,60.046h34.241V51.9h-38.341c-2.533,0-4.047,1.532-4.047,4.1v34.891
-		c0,2.562,1.551,4.154,4.047,4.154h38.394V86.9h-34.294V60.046z"/>
-	<rect x="372.287" y="67.774" fill="#F54A42" width="29.977" height="8.146"/>
-	<path fill="#F54A42" d="M423.898,86.9v-35h-8.144v38.99c0,2.562,1.548,4.154,4.043,4.154h36.229V86.9H423.898z"/>
-</g>
-<g>
-	<g>
-		<defs>
-			<rect id="SVGID_1_" x="3.997" y="1.998" width="135.06" height="135.06"/>
-		</defs>
-		<clipPath id="SVGID_2_">
-			<use xlink:href="#SVGID_1_"  overflow="visible"/>
-		</clipPath>
-		<g clip-path="url(#SVGID_2_)">
-			<defs>
-				<rect id="SVGID_3_" x="3.999" y="2" width="135.058" height="135.058"/>
-			</defs>
-			<clipPath id="SVGID_4_">
-				<use xlink:href="#SVGID_3_"  overflow="visible"/>
-			</clipPath>
-			
-				<path clip-path="url(#SVGID_4_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" d="
-				M117.773,100.585c0-2.525,2.045-4.575,4.574-4.575c2.53,0,4.575,2.05,4.575,4.575c0,2.524-2.045,4.574-4.575,4.574
-				C119.818,105.159,117.773,103.109,117.773,100.585z"/>
-			
-				<circle clip-path="url(#SVGID_4_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" cx="20.708" cy="100.585" r="4.574"/>
-			
-				<circle clip-path="url(#SVGID_4_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" cx="71.525" cy="11.563" r="4.574"/>
-		</g>
-		
-			<polyline clip-path="url(#SVGID_2_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" points="
-			56.611,20.468 20.711,41.904 20.708,71.745 		"/>
-		
-			<polyline clip-path="url(#SVGID_2_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" points="
-			122.345,89.527 122.347,41.905 91.568,23.529 		"/>
-		<g clip-path="url(#SVGID_2_)">
-			<defs>
-				<rect id="SVGID_5_" x="3.999" y="2" width="135.058" height="135.058"/>
-			</defs>
-			<clipPath id="SVGID_6_">
-				<use xlink:href="#SVGID_5_"  overflow="visible"/>
-			</clipPath>
-			
-				<polyline clip-path="url(#SVGID_6_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" points="
-				33.608,108.032 71.526,129.925 99.466,113.794 			"/>
-		</g>
-		
-			<line clip-path="url(#SVGID_2_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" x1="122.345" y1="89.527" x2="122.347" y2="92.96"/>
-		
-			<line clip-path="url(#SVGID_2_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" x1="33.608" y1="108.032" x2="27.324" y2="104.309"/>
-		
-			<line clip-path="url(#SVGID_2_)" fill="none" stroke="#F54A42" stroke-width="3.75" stroke-linecap="round" stroke-miterlimit="10" x1="56.611" y1="20.468" x2="64.998" y2="15.46"/>
-		<polygon clip-path="url(#SVGID_2_)" fill="#F54A42" points="45.554,51.996 45.554,63.851 62.352,63.851 62.352,97.449 
-			70.326,97.449 70.326,51.996 		"/>
-		<polygon clip-path="url(#SVGID_2_)" fill="#F54A42" points="97.5,51.996 72.446,51.996 72.446,97.446 80.425,97.446 
-			80.425,63.851 97.5,63.851 		"/>
-	</g>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="155px" viewBox="0 0 512 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-3" x="1.12662555" y="0" width="152.312106" height="152.802847"></rect>
+        <rect id="path-5" x="1.12662555" y="0" width="152.312106" height="152.802847"></rect>
+        <rect id="path-7" x="1.12662555" y="0" width="152.312106" height="152.802847"></rect>
+        <rect id="path-9" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-11" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-13" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-15" x="1.12662555" y="0" width="152.312106" height="152.802847"></rect>
+        <rect id="path-17" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-19" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-21" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-23" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+        <rect id="path-25" x="1.12437004" y="1.12912409" width="152.314361" height="152.805109"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSLayerGroup">
+            <g id="Group" transform="translate(165.779736, 56.569343)" fill="#F54A42" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-path" x="21.2998767" y="9.01828467" width="9.18442291" height="40.8136496"></rect>
+                <rect id="Rectangle-path" x="0.161268722" y="1.01824818" width="51.6465903" height="9.21627737"></rect>
+                <path d="M68.004652,10.2345255 L106.621181,10.2345255 L106.621181,1.01824818 L63.3853744,1.01824818 C60.5287753,1.01824818 58.8213568,2.75153285 58.8213568,5.65693431 L58.8213568,45.1321533 C58.8213568,48.0307664 60.5705022,49.8319343 63.3853744,49.8319343 L106.685463,49.8319343 L106.685463,40.6167883 L68.004652,40.6167883 L68.004652,10.2345255 L68.004652,10.2345255 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="65.6510308" y="18.9778832" width="33.8111718" height="9.21627737"></rect>
+                <path d="M155.711154,20.9408394 C152.082044,20.9408394 148.376247,21.0358759 144.788863,21.1263869 C141.227419,21.2168978 137.541921,21.3085401 133.959048,21.3085401 C123.309674,21.3085401 123.309674,19.6623723 123.309674,16.9379927 L123.309674,14.4217883 C123.309674,10.9733212 123.309674,9.68240876 137.075031,9.68240876 L146.300053,9.68240876 C159.491383,9.68240876 160.80296,10.9484307 160.80296,14.0540876 L160.80296,16.669854 L169.989639,16.669854 L169.989639,13.5641971 C169.989639,2.30576642 162.642326,0.406167883 146.181639,0.406167883 L137.384035,0.406167883 C120.979736,0.406167883 114.121868,2.35441606 114.121868,14.4217883 L114.121868,16.9968248 C114.121868,29.4794161 123.922044,30.5225547 133.960176,30.5225547 C137.029921,30.5225547 140.143648,30.4478832 143.25963,30.3675547 C146.346291,30.2928832 149.434079,30.2148175 152.472247,30.2148175 C160.927013,30.2148175 160.927013,31.260219 160.927013,33.5444891 L160.927013,35.9973358 C160.927013,39.9108029 160.927013,41.2277372 146.426361,41.2277372 L137.076159,41.2277372 C122.940899,41.2277372 122.940899,39.8994891 122.940899,34.9541971 L122.940899,31.725219 L113.758731,31.725219 L113.758731,35.0775182 C113.758731,48.1744526 119.914009,50.5039781 137.257727,50.5039781 L146.544775,50.5039781 C163.935859,50.5039781 170.110308,48.2853285 170.110308,35.8117883 L170.110308,33.0534672 C170.110308,27.5289051 167.61459,20.9408394 155.711154,20.9408394 L155.711154,20.9408394 Z" id="Shape"></path>
+                <path d="M220.300969,20.9408394 C216.67637,20.9408394 212.966062,21.0358759 209.378678,21.1263869 C205.817233,21.2168978 202.131736,21.3085401 198.548863,21.3085401 C187.900617,21.3085401 187.900617,19.6623723 187.900617,16.9379927 L187.900617,14.4217883 C187.900617,10.9733212 187.900617,9.68240876 201.664846,9.68240876 L210.890996,9.68240876 C224.081198,9.68240876 225.391648,10.9484307 225.391648,14.0540876 L225.391648,16.669854 L234.578326,16.669854 L234.578326,13.5641971 C234.578326,2.30576642 227.233269,0.406167883 210.770326,0.406167883 L201.972722,0.406167883 C185.568423,0.406167883 178.711683,2.35441606 178.711683,14.4217883 L178.711683,16.9968248 C178.711683,29.4794161 188.510731,30.5225547 198.548863,30.5225547 C201.61748,30.5225547 204.732335,30.4478832 207.849445,30.3675547 C210.937233,30.2928832 214.023894,30.2148175 217.060934,30.2148175 C225.5157,30.2148175 225.5157,31.260219 225.5157,33.5444891 L225.5157,35.9973358 C225.5157,39.9108029 225.5157,41.2277372 211.015048,41.2277372 L201.664846,41.2277372 C187.531841,41.2277372 187.531841,39.8994891 187.531841,34.9541971 L187.531841,31.725219 L178.347419,31.725219 L178.347419,35.0775182 C178.347419,48.1744526 184.502696,50.5039781 201.84867,50.5039781 L211.13459,50.5039781 C228.525674,50.5039781 234.698996,48.2853285 234.698996,35.8117883 L234.698996,33.0534672 C234.698996,27.5289051 232.203278,20.9408394 220.300969,20.9408394 L220.300969,20.9408394 Z" id="Shape"></path>
+                <path d="M253.039648,10.2345255 L291.655048,10.2345255 L291.655048,1.01824818 L248.415859,1.01824818 C245.55926,1.01824818 243.851841,2.75153285 243.851841,5.65693431 L243.851841,45.1321533 C243.851841,48.0307664 245.600987,49.8319343 248.415859,49.8319343 L291.714819,49.8319343 L291.714819,40.6167883 L253.039648,40.6167883 L253.039648,10.2345255 L253.039648,10.2345255 Z" id="Shape"></path>
+                <rect id="Rectangle-path" x="250.684899" y="18.9778832" width="33.8066608" height="9.21627737"></rect>
+                <path d="M308.889374,40.6167883 L308.889374,1.01824818 L299.704952,1.01824818 L299.704952,45.1310219 C299.704952,48.029635 301.450714,49.8308029 304.264458,49.8308029 L345.121833,49.8308029 L345.121833,40.6167883 L308.889374,40.6167883 L308.889374,40.6167883 Z" id="Shape"></path>
+            </g>
+            <g id="Group">
+                <g id="Clipped">
+                    <mask id="mask-2" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <g id="Group" mask="url(#mask-2)">
+                        <g transform="translate(0.000000, 1.131387)" id="Clipped">
+                            <g>
+                                <mask id="mask-4" sketch:name="SVGID_3_" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="SVGID_3_"></g>
+                                <path d="M129.43563,111.537774 C129.43563,108.681022 131.741885,106.361679 134.593974,106.361679 C137.447189,106.361679 139.753445,108.681022 139.753445,111.537774 C139.753445,114.393394 137.447189,116.712737 134.593974,116.712737 C131.741885,116.712737 129.43563,114.393394 129.43563,111.537774 L129.43563,111.537774 Z" id="Shape" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                            </g>
+                            <g>
+                                <mask id="mask-6" sketch:name="SVGID_3_" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <g id="SVGID_3_"></g>
+                                <ellipse id="Oval" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-6)" cx="19.9702555" cy="111.537774" rx="5.15834361" ry="5.1749635"></ellipse>
+                            </g>
+                            <g>
+                                <mask id="mask-8" sketch:name="SVGID_3_" fill="white">
+                                    <use xlink:href="#path-7"></use>
+                                </mask>
+                                <g id="SVGID_3_"></g>
+                                <ellipse id="Oval" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-8)" cx="77.2792952" cy="10.8194526" rx="5.15834361" ry="5.1749635"></ellipse>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-10" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M60.4599824,22.0258394 L19.9736388,46.2782482 L19.9702555,80.0399635" id="Shape" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-10)"></path>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-12" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M134.591718,100.158285 L134.593974,46.2793796 L99.8828546,25.4890146" id="Shape" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-12)"></path>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-14" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <g mask="url(#mask-14)">
+                        <g transform="translate(0.000000, 1.131387)">
+                            <mask id="mask-16" sketch:name="SVGID_5_" fill="white">
+                                <use xlink:href="#path-15"></use>
+                            </mask>
+                            <g id="SVGID_5_"></g>
+                            <path d="M34.5182731,119.963212 L77.2804229,144.732664 L108.78985,126.482263" id="Shape" stroke="#F54A42" stroke-width="3.75" fill="none" sketch:type="MSShapeGroup" mask="url(#mask-16)"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-18" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M134.591718,100.158285 L134.593974,104.042336" id="Shape" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-18)"></path>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-20" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M34.5182731,121.094599 L27.4314714,116.882445" id="Shape" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-20)"></path>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-22" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-21"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M60.4599824,22.0258394 L69.9184493,16.359854" id="Shape" stroke="#F54A42" stroke-width="3.75" sketch:type="MSShapeGroup" mask="url(#mask-22)"></path>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-24" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-23"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M47.9904141,57.6962044 L47.9904141,71.1087956 L66.9344141,71.1087956 L66.9344141,109.121131 L75.9271189,109.121131 L75.9271189,57.6962044 L47.9904141,57.6962044 Z" id="Shape" fill="#F54A42" sketch:type="MSShapeGroup" mask="url(#mask-24)"></path>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-26" sketch:name="SVGID_1_" fill="white">
+                        <use xlink:href="#path-25"></use>
+                    </mask>
+                    <g id="SVGID_1_"></g>
+                    <path d="M106.572687,57.6962044 L78.3179559,57.6962044 L78.3179559,109.117737 L87.3162996,109.117737 L87.3162996,71.1087956 L106.572687,71.1087956 L106.572687,57.6962044 Z" id="Shape" fill="#F54A42" sketch:type="MSShapeGroup" mask="url(#mask-26)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
