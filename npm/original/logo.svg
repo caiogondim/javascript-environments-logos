@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1313px" height="512px" viewBox="0 0 1313 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>npm-logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="npm-logo" sketch:type="MSLayerGroup" fill="#CD3632">
+            <g id="Page-1" sketch:type="MSShapeGroup">
+                <path d="M0,0 L1313,0 L1313,441.107692 L656.5,441.107692 L656.5,512 L365.014,512 L365.014,441.107692 L0,441.107692 L0,0 Z M74.3269631,366.258977 L219.366161,366.25983 L219.366163,145.878757 L292.284963,145.878757 L292.284963,366.259833 L364.547825,366.259833 L364.547825,74.8122435 L74.3269631,74.8122435 L74.3269631,366.258977 Z M436.791332,73.5179487 L437.666668,441.107692 L582.096668,441.107692 L582.096668,367.76647 L728.310189,367.76647 L728.310189,73.5179487 L436.791332,73.5179487 Z M580.346,144.410256 L656.5,144.410256 L656.5,294.071795 L580.346,294.071795 L580.346,144.410256 Z M801.805332,73.5179487 L801.805332,364.964103 L947.105374,364.964103 L947.105374,146.158954 L1019.75807,146.158954 L1019.75807,364.965539 L1092.33167,364.965539 L1092.33167,147.035897 L1165.06339,147.035897 L1165.06339,364.964103 L1237.73542,364.964103 L1237.73542,73.5179487 L801.805332,73.5179487 Z" id="Rectangle-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>
