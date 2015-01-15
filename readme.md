@@ -35,3 +35,8 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 | Square | Standard
 |:---:|:---:
 | <a href="npm/square/256x256.png"><img height=140 src="npm/square/256x256.png" alt="npm square logo"></a> | <a href="npm/original/657x256.png"><img height=140 src="npm/original/657x256.png" alt="npm original logo"></a>
+
+
+## Credits
+
+- Icon: [Donata Bologna](http://thenounproject.com/term/conservation/1909/)
