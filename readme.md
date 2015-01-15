@@ -9,6 +9,15 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## Examples
+
+### Support
+
+![Chrome](https://raw.github.com/alrra/browser-logos/master/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/firefox/firefox_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/internet-explorer/internet-explorer_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/opera/opera_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/safari/safari_48x48.png) | ![node.js](https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/light/168x48.png) | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a>
+--- | --- | --- | --- | --- | --- | ---
+Latest ✔ | Latest ✔ | 8+ ✔ | Latest ✔ | 6.0+ ✔ | 0.10+ ✔ | 1.0+ ✔
+
+## Logos
 
 ### [node.js](http://nodejs.org/)
 
