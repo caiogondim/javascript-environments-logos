@@ -4,6 +4,12 @@
 |:---:|:---:|:---:|
 | <a href="nodejs.org"><img width=140 src="node.js/light/256x256.png" alt="node.js standard light"></a> | <a href="nodejs.org"><img width=140 src="node.js/dark/256x256.png" alt="node.js standard dark"></a> | <a href="nodejs.org"><img width=140 src="node.js/green/256x256.png" alt="node.js standard green"></a> |
 
+### io.js
+
+| Standard
+|:---:
+| <a href="iojs/standard/224x256.png"><img height=140 src="iojs/standard/224x256.png" alt="io.js logo"></a>
+
 
 ### Tessel
 
