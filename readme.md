@@ -45,6 +45,12 @@ Latest ✔ | Latest ✔ | 8+ ✔ | Latest ✔ | 6.0+ ✔ | 0.10+ ✔ | 1.0+ ✔
 |:---:|:---:
 | <a href="npm/square/256x256.png"><img height=140 src="npm/square/256x256.png" alt="npm square logo"></a> | <a href="npm/original/657x256.png"><img height=140 src="npm/original/657x256.png" alt="npm original logo"></a>
 
+### [Bower](http://bower.io)
+
+| Standard
+|:---:
+| <a href="bower/standard/291x256.png"><img height=140 src="bower/standard/291x256.png" alt="bower logo"></a>  
+
 
 ## Credits
 
