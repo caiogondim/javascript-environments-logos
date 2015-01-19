@@ -17,6 +17,12 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 --- | --- | --- | --- | --- | --- | ---
 Latest ✔ | Latest ✔ | 8+ ✔ | Latest ✔ | 6.0+ ✔ | 0.10+ ✔ | 1.0+ ✔
 
+### Available on
+
+[npm](https://npmjs.com) | [Bower](http://bower.io)
+|:---:|:---:|
+| <a href="npm/square/256x256.png"><img height=48 src="npm/square/256x256.png" alt="npm square logo"></a> | <a href="bower/standard/291x256.png"><img height=48 src="bower/standard/291x256.png" alt="bower logo"></a>
+
 ## Logos
 
 ### [node.js](http://nodejs.org/)
@@ -49,7 +55,7 @@ Latest ✔ | Latest ✔ | 8+ ✔ | Latest ✔ | 6.0+ ✔ | 0.10+ ✔ | 1.0+ ✔
 
 | Standard
 |:---:
-| <a href="bower/standard/291x256.png"><img height=140 src="bower/standard/291x256.png" alt="bower logo"></a>  
+| <a href="bower/standard/291x256.png"><img height=140 src="bower/standard/291x256.png" alt="bower logo"></a>
 
 
 ## Credits
