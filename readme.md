@@ -2,12 +2,27 @@
 
 <img height="256" src="project-logo/logo.png" alt="Project logo" align="right">
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A collection with logos of enviroments where your JavaScript file might run or
+be available, like back-end enviroments — node.js, io.js — or package
+managers — npm, bower.
+
+This repo was made mainly to be used with the 
+[browser logos](https://github.com/alrra/browser-logos) made by 
+[@alrra](https://github.com/alrra) in GitHub project's README pages, like
+[this](https://github.com/caiogondim/js-patterns-sublime-snippets).
+
+
+<!----------------------------------------------------------------------------->
+## Usage
+
+To use it, choose the logos you want use and do something like the below
+example:
+
+```markdown
+<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a>
+--- | ---
+0.10+ ✔ | 1.0+ ✔
+```
 
 
 <!----------------------------------------------------------------------------->
