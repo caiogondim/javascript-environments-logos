@@ -21,7 +21,7 @@ Latest ✔ | Latest ✔ | 8+ ✔ | Latest ✔ | 6.0+ ✔ | 0.10+ ✔ | 1.0+ ✔
 
 ### Server support
 
-![node.js](https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/light/168x48.png) | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a> | <a href="tessel/t/square/256x256.png"><img height=48 src="tessel/t/square/128x128.png" alt="Tessel"></a> 
+<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/909x256.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a> | <a href="tessel/t/square/256x256.png"><img height=48 src="tessel/t/square/128x128.png" alt="Tessel"></a> 
 --- | --- | ---
 0.10+ ✔ | 1.0+ ✔ | Latest ✔
 
@@ -37,9 +37,9 @@ Latest ✔ | Latest ✔ | 8+ ✔ | Latest ✔ | 6.0+ ✔ | 0.10+ ✔ | 1.0+ ✔
 
 ### [node.js](http://nodejs.org/)
 
-| standard light | standard dark | standard green
-|:---:|:---:|:---:|
-| <a href="node.js/light/256x256.png"><img width=140 src="node.js/light/256x256.png" alt="node.js standard light"></a> | <a href="node.js/dark/256x256.png"><img width=140 src="node.js/dark/256x256.png" alt="node.js standard dark"></a> | <a href="node.js/green/256x256.png"><img width=140 src="node.js/green/256x256.png" alt="node.js standard green"></a> |
+| Standard
+|:---:
+| <a href="node.js/standard/909x256.png"><img height=140 src="node.js/standard/909x256.png" alt="node.js standard"></a>
 
 ### [io.js](https://iojs.org)
 
