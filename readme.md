@@ -6,8 +6,13 @@ A collection with logos of enviroments where your JavaScript file might run or
 be available, like back-end enviroments — node.js, io.js — or package
 managers — npm, bower.
 
-This repo was made mainly to be used with the 
-[browser logos](https://github.com/alrra/browser-logos) made by 
+All icons are available in differents sizes, ranging from 32 to 1024 pixels in
+height. SVG, EPS and PDF formats are available as well. To download them, use
+this
+[link](https://github.com/caiogondim/javascript-environments-logos/archive/master.zip).
+
+This repo was made mainly to be used with the
+[browser logos](https://github.com/alrra/browser-logos) made by
 [@alrra](https://github.com/alrra) in GitHub project's README pages, like
 [this](https://github.com/caiogondim/js-patterns-sublime-snippets).
 
@@ -15,14 +20,19 @@ This repo was made mainly to be used with the
 <!----------------------------------------------------------------------------->
 ## Usage
 
-To use it, choose the logos you want use and do something like the below
-example:
+You can download the icons or link directly to this repo.
+
+To use them in a table inside your README file, choose the logos you want to use
+and do something like the example below:
 
 ```markdown
 <a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a>
 --- | ---
 0.10+ ✔ | 1.0+ ✔
 ```
+
+Or take a look in the [raw file](https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/readme.md)
+of this README file and get the pieces you want.
 
 
 <!----------------------------------------------------------------------------->
@@ -36,7 +46,7 @@ Latest ✔ | Latest ✔ | 8+ ✔ | Latest ✔ | 6.0+ ✔ | 0.10+ ✔ | 1.0+ ✔
 
 ### Server support
 
-<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a> | <a href="tessel/t/square/128x128.png"><img height=48 src="tessel/t/square/128x128.png" alt="Tessel"></a> 
+<a href="https://nodejs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-server-side-logos/master/node.js/standard/454x128.png"></a> | <a href="https://iojs.org"><img height=48 src="https://raw.githubusercontent.com/caiogondim/javascript-environments-logos/master/iojs/standard/224x256.png" alt="io.js logo"></a> | <a href="tessel/t/square/128x128.png"><img height=48 src="tessel/t/square/128x128.png" alt="Tessel"></a>
 --- | --- | ---
 0.10+ ✔ | 1.0+ ✔ | Latest ✔
 
